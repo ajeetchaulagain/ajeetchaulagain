@@ -1,4 +1,4 @@
-# Hi, I,m Ajeet 👋
+# Hi, I'm Ajeet 👋
 
 I am full stack developer passionate towards building applications that are scalable and maintainable with beautifully crafted code. Currenlty, I am working on my personal project and creating some open source projects on github here.
 
