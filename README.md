@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I,m Ajeet 👋
 
-<!--
-**ajeetchaulagain/ajeetchaulagain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am full stack developer passionate towards building applications that are scalable and maintainable with beautifully crafted code. Currenlty, I am working on my peronal project and some open source projects on github here.
 
-Here are some ideas to get you started:
+## My current set of tool box
+Reactjs, Node.js, Express, MongoDB, GatsbyJS, GraphQL, HTML5 & CSS3, Javascript Docker, Webpack, Babel, Git, Github, npm, postman, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web
+[Facebook](https://www.facebook.com/chaulagain.ajeet) 
+[Twitter](https://twitter.com/ajeetsweb) 
+[Linkedin](https://www.linkedin.com/in/ajeet-chaulagain/) 
+[Personal Site](https://ajeetchaulagain.com/)
+
