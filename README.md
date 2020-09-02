@@ -6,8 +6,8 @@ I am full stack developer passionate towards building applications that are scal
 Reactjs, React Native, Node.js, Express, MongoDB, GatsbyJS, GraphQL, AWS Lambda, AWS Amplify, HTML5 & CSS3, Javascript Docker, Kubernetes, Webpack, Babel, Git, Github, npm, postman, Visual Studio Code
 
 ## Find me around the web :globe_with_meridians:
-[Facebook](https://www.facebook.com/chaulagain.ajeet) 
-[Twitter](https://twitter.com/ajeetsweb) 
-[Linkedin](https://www.linkedin.com/in/ajeet-chaulagain/) 
-[Personal Site](https://ajeetchaulagain.com/)
+- [Facebook](https://www.facebook.com/chaulagain.ajeet) 
+- [Twitter](https://twitter.com/ajeetsweb) 
+- [Linkedin](https://www.linkedin.com/in/ajeet-chaulagain/) 
+- [Personal Site](https://ajeetchaulagain.com/)
 
