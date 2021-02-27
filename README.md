@@ -11,3 +11,5 @@ Reactjs, React Native, Node.js, Express, MongoDB, MySQL, GatsbyJS, GraphQL, AWS 
 - [Linkedin](https://www.linkedin.com/in/ajeet-chaulagain/) 
 - [Personal Site](https://ajeetchaulagain.com/)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=ajeetchaulagain)
