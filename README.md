@@ -3,7 +3,7 @@
 I am pragmatic software engineer passionate and proficient in building applications that are scalable, maintainable and well-architected with beautifully crafted code
 
 ## My current set of tool box
-Reactjs, React Native, Node.js, Express, MongoDB, MySQL, GatsbyJS, Vue.js, Nuxt, GraphQL, AWS Lambda, AWS Amplify, HTML5 & CSS3, Javascript, Docker, Google Cloud Platform, Kubernetes, Webpack, Babel, Git, Github, npm, postman, Visual Studio Code
+Reactjs, React Native, Node.js, Express, MongoDB, MySQL, GatsbyJS, Vue.js, Nuxt, Redis, Contentstack, Contentful, GraphQL, AWS Lambda, AWS Amplify, HTML5 & CSS3, Javascript, Docker, Google Cloud Platform, Kubernetes, Webpack, Babel, Git, Github, npm, postman, Visual Studio Code
 
 ## Find me around the web :globe_with_meridians:
 - [Facebook](https://www.facebook.com/chaulagain.ajeet) 
